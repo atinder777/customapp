@@ -1,0 +1,16 @@
+{
+    "app_id" : "com.agriexams.mobile",
+    "appname": "AgriExams",
+    "desktopappname": "AgriExams Desktop",
+    "versioncode" : "1",
+    "versionname" : "3.4.1",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "demo_sites": {},
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://agriexams.com/portal",
+}
